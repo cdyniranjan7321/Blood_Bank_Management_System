@@ -2,7 +2,9 @@
 			<div class="container-fluid">					
 				<div class="row contactus">
 					<div class="col-md-6 offset-md-3">
-						<h1 class="text-center">Contact Us</h1>
+					<h1 class="text-center"><a href="certificate.php">Certified Yourself</a></h1>	
+					<h1 class="text-center">Contact Us</h1>
+						<h1 class="text-center">Certified Yourself</h1>
 						<hr class="white-bar">
 
 							<h1 class="text-center">

@@ -52,7 +52,7 @@
 			<h2 class="text-center">Our Vission</h2>
 			<hr class="red-bar">
 			<p>
-			Our main vission is to ensure that there is a consistent and adequate supply of safe blood for patients in need. This system should be easy to use and accessible to all stakeholders involved in the blood donation process, including donors, healthcare professionals, and blood bank staff.
+			Our main vision is to ensure that there is a consistent and adequate supply of safe blood for patients in need. This system should be easy to use and accessible to all stakeholders involved in the blood donation process, including donors, healthcare professionals, and blood bank staff.
 			</p>
 			<p>
 

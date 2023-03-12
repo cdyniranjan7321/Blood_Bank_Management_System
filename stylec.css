@@ -1,0 +1,92 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f5f5f5;
+}
+
+.certificate {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	padding: 20px;
+	margin: 50px auto;
+	max-width: 600px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #900;
+}
+
+p {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+strong {
+	color: #900;
+	font-weight: bold;
+}
+
+@media print {
+	.certificate {
+		border: none;
+		box-shadow: none;
+		margin: 0;
+		padding: 0;
+		max-width: none;
+	}
+}
+.certificate {
+	margin: 0 auto;
+	padding: 20px;
+	max-width: 800px;
+	background-color: #fff;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.certificate h2 {
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.certificate p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 20px;
+	text-align: justify;
+}
+.signature {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.signature .name {
+    border-top: 0.5px dotted #333;
+    padding-top: 0px;
+}
+
+.signatory {
+	text-align: center;
+}
+
+.signatory p {
+	margin: 0;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.signatory p:last-child {
+	margin-top: 10px;
+}
+.certificate p {
+	margin-bottom: 100px;
+}
